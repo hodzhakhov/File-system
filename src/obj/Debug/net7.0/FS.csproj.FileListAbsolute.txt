@@ -1,0 +1,16 @@
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.deps.json
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.pdb
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.AssemblyInfoInputs.cache
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.AssemblyInfo.cs
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.csproj.CoreCompileInputs.cache
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\refint\FS.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.pdb
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\ref\FS.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.xml
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.exe
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.runtimeconfig.json
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\bin\Debug\net7.0\FS.xml
+D:\StudyLab\2 course\OOP\hodzhakhov\src\FS\obj\Debug\net7.0\FS.genruntimeconfig.cache
